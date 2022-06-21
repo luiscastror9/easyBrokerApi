@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "85fadCcKIdWqLT1P3jp+8sLfdDhBRLYzjBN1amLLCqU=",
+  "Source": "EasyBroker",
+  "BasePath": "_content/EasyBroker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
